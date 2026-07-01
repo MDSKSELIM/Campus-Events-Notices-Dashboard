@@ -17,7 +17,7 @@ export default function EventDetail() {
         ← Back to dashboard
       </Link>
       <h1>{event.title}</h1>
-      <p className="detail-venue">📍 {event.venue}</p>
+      <p className="detail-venue"> {event.venue}</p>
       <p className="detail-date">
         {new Date(event.date).toLocaleDateString("en-IN", {
           day: "numeric",

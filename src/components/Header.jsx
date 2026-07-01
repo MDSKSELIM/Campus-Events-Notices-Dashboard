@@ -11,7 +11,7 @@ export default function Header({ darkMode, onToggleDarkMode }) {
         onClick={onToggleDarkMode}
         aria-label="Toggle dark mode"
       >
-        {darkMode ? "☀️ Light" : "🌙 Dark"}
+        {darkMode ? " Light" : " Dark"}
       </button>
     </header>
   );

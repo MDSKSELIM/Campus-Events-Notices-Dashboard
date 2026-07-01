@@ -1,50 +1,50 @@
 [
   {
     "id": "e1",
-    "title": "Developers' Society - Open House",
-    "venue": "CS Seminar Hall",
+    "title": "Developers' Society - IntroSeminar",
+    "venue": "Kalidas Auditorium",
     "date": "2026-07-04",
     "content": "An informal session for anyone curious about the Developers' Society. Current members will talk through past projects and answer questions about the selection process. Snacks provided."
   },
   {
     "id": "e2",
-    "title": "Inter-hostel Football Finals",
-    "venue": "Main Ground",
+    "title": "Inter-hall Football Finals",
+    "venue": "Tata Steel Complex",
     "date": "2026-07-06",
-    "content": "The final match of the inter-hostel football tournament. Blue Hostel takes on Red Hostel after both went undefeated through the group stage. Gates open at 4 PM."
+    "content": "The final match of the inter-hall football tournament. HJB Hall takes on Patel Hall after both went undefeated through the group stage. Gates open at 4 PM."
   },
   {
     "id": "e3",
     "title": "Hackathon: Build for Campus",
-    "venue": "Innovation Lab",
+    "venue": "Takhshila",
     "date": "2026-07-11",
     "content": "A 24-hour hackathon focused on building tools that solve real problems on campus. Teams of up to four. Prior programming experience helpful but not required - mentors will be around throughout."
   },
   {
     "id": "e4",
     "title": "Classical Music Evening",
-    "venue": "Amphitheatre",
+    "venue": "Kalidas Auiditorium",
     "date": "2026-07-08",
     "content": "An evening of classical instrumental performances organized by the music club, featuring both student performers and an invited guest artist."
   },
   {
     "id": "e5",
     "title": "Career Talk: Life After Engineering",
-    "venue": "Auditorium",
+    "venue": "Netaji Auditorium",
     "date": "2026-07-09",
     "content": "A panel discussion with alumni across different career paths - startups, research, and corporate roles. Open Q&A in the second half."
   },
   {
     "id": "e6",
     "title": "Photography Club - Golden Hour Walk",
-    "venue": "Campus Gates, Assembly Point",
+    "venue": "Main building",
     "date": "2026-07-05",
     "content": "A casual walk around campus during golden hour for anyone interested in photography, beginner or experienced. Bring whatever camera you have, phone cameras welcome too."
   },
   {
     "id": "e7",
     "title": "Debate Society - Parliamentary Round",
-    "venue": "Room 204, Academic Block",
+    "venue": "Gargi Auditorium",
     "date": "2026-07-13",
     "content": "Open parliamentary-style debate round, open to spectators. This week's motion will be announced a day in advance on the club's noticeboard."
   }

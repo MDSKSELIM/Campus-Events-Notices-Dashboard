@@ -9,20 +9,17 @@ title and filtered by category (both work together). Clicking a notice or event 
 a detail page with the full content. There's also a dark mode toggle that remembers
 your preference between visits.
 
-## Setup
+## Links
 
-```bash
+- Live demo https://campus-events-notices-dashboard.vercel.app/
+- Github Repo https://github.com/MDSKSELIM/Campus-Events-Notices-Dashboard
+
+## Getting started
+
+git clone https://github.com/MDSKSELIM/Campus-Events-Notices-Dashboard.git
+cd notes-app
 npm install
 npm run dev
-```
-
-Then open the local URL Vite prints (usually `http://localhost:5173`).
-
-To build for production:
-
-```bash
-npm run build
-```
 
 ## What are the Features
 

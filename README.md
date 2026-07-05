@@ -16,10 +16,10 @@ your preference between visits.
 
 ## Getting started
 
-git clone https://github.com/MDSKSELIM/Campus-Events-Notices-Dashboard.git
-cd notes-app
-npm install
-npm run dev
+git clone https://github.com/MDSKSELIM/Campus-Events-Notices-Dashboard.git  
+cd notes-app  
+npm install  
+npm run dev  
 
 ## What are the Features
 
